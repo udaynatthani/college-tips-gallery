@@ -34,3 +34,26 @@ This project showcases vibrant moments from the CollegeTips team, including:
 
 ## 📁 Folder Structure
 
+college-tips-gallery/
+├── public/
+│ ├── images/
+│ │ └── team-vibes/, creative-campaigns/, ...
+│ ├── videos/
+│ │ └── video1.mp4, ...
+│ └── logo.png
+├── src/
+│ ├── assets/
+│ │ └── logo.png
+│ ├── components/
+│ │ ├── Header.jsx
+│ │ ├── Gallery.jsx
+│ │ ├── ImageCard.jsx
+│ │ └── LightboxModal.jsx
+│ ├── data/
+│ │ └── images.js
+│ ├── App.jsx
+│ └── main.jsx
+├── tailwind.config.js
+├── postcss.config.js
+├── package.json
+└── README.md
