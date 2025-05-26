@@ -57,3 +57,9 @@ college-tips-gallery/
 ├── postcss.config.js
 ├── package.json
 └── README.md
+
+🙌 Credits
+
+    Created with ❤️ by Uday Natthani
+
+    Media assets belong to CollegeTips
